@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roxzlir/nav-demo/static/css/main.c9c347df.css",
-    "main.js": "/roxzlir/nav-demo/static/js/main.eed85a85.js",
-    "static/js/592.692e0408.chunk.js": "/roxzlir/nav-demo/static/js/592.692e0408.chunk.js",
-    "index.html": "/roxzlir/nav-demo/index.html",
-    "main.c9c347df.css.map": "/roxzlir/nav-demo/static/css/main.c9c347df.css.map",
-    "main.eed85a85.js.map": "/roxzlir/nav-demo/static/js/main.eed85a85.js.map",
-    "592.692e0408.chunk.js.map": "/roxzlir/nav-demo/static/js/592.692e0408.chunk.js.map"
+    "main.css": "/nav-demo/static/css/main.c9c347df.css",
+    "main.js": "/nav-demo/static/js/main.ecbb45a8.js",
+    "static/js/592.692e0408.chunk.js": "/nav-demo/static/js/592.692e0408.chunk.js",
+    "index.html": "/nav-demo/index.html",
+    "main.c9c347df.css.map": "/nav-demo/static/css/main.c9c347df.css.map",
+    "main.ecbb45a8.js.map": "/nav-demo/static/js/main.ecbb45a8.js.map",
+    "592.692e0408.chunk.js.map": "/nav-demo/static/js/592.692e0408.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9c347df.css",
-    "static/js/main.eed85a85.js"
+    "static/js/main.ecbb45a8.js"
   ]
 }
