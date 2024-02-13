@@ -1,0 +1,48 @@
+{
+    "böcker": [
+        {
+            "id": 1,
+            "titel": "Det förlorade riket",
+            "författare": "Erik Olsson",
+            "utgivningsår": 2010,
+            "genre": "Fantasy"
+        },
+        {
+            "id": 2,
+            "titel": "I skuggan av framtiden",
+            "författare": "Lena Andersson",
+            "utgivningsår": 2015,
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 3,
+            "titel": "Gåtans lösning",
+            "författare": "Karl Berglund",
+            "utgivningsår": 2018,
+            "genre": "Deckare"
+        }
+    ],
+    "cdskivor": [
+        {
+            "id": 101,
+            "titel": "Invincible Shield",
+            "artist": "Judas Priest",
+            "utgivningsår": 2024,
+            "genre": "Rock"
+        },
+        {
+            "id": 102,
+            "titel": "Killer Bee's",
+            "artist": "Wu-Tang Clan",
+            "utgivningsår": 1991,
+            "genre": "Hiphop"
+        },
+        {
+            "id": 103,
+            "titel": "Enter the Ninja",
+            "artist": "Die Antwood",
+            "utgivningsår": 2011,
+            "genre": "Elektronisk"
+        }
+    ]
+}
